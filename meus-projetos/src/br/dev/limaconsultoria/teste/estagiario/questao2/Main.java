@@ -6,7 +6,7 @@ public class Main {
 		
 	int mult = 400;
 	
-	for (int i = 0; i<= 5000; i++) {
+	for (int i = 0; i<= 4599; i++) {
 		mult++;
 		if (mult %3 ==0) {
 		System.out.println(mult);
